@@ -1,0 +1,14 @@
+{
+  "name": "assets",
+  "type": "module",
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "^3.16.0",
+    "@types/bun": "latest",
+    "axios": "^1.9.0",
+    "eslint": "^9.18.0",
+    "https-proxy-agent": "^7.0.6"
+  }
+}
